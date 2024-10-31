@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Multisite sync for WooCommerce\n"
+"POT-Creation-Date: 2020-11-20 11:58+0100\n"
+"PO-Revision-Date: 2020-11-20 12:03+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: lemontec-woocommerce-multisite-sync.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: inc/inc-backend.php:24
+msgid "WooCommerce Multisite Sync Settings."
+msgstr "WooCommerce Multisite Sync Einstellungen."
+
+#: inc/inc-backend.php:27
+msgid ""
+"You may set which WooCommerce product data and which websites in the network "
+"should be synchronized based on the SKU."
+msgstr ""
+"Du kannst beliebig einstellen, welche WooCommerce-Produktdaten und welche "
+"Websites im Netzwerk anhand der Artikelnummer synchronisiert werden sollen."
+
+#: inc/inc-backend.php:29
+msgid "The following functions will be implemented in the future:"
+msgstr "Folgende Funktionen werden zukünftig implementiert:"
+
+#: inc/inc-backend.php:32
+msgid "Sync images"
+msgstr "Bilder synchronisieren"
+
+#: inc/inc-backend.php:35
+msgid "Language switch with href-lang-tags"
+msgstr "Sprach-Umschalter mit href-lang-tags"
+
+#: inc/inc-backend.php:38
+msgid "Sync Custom-Field"
+msgstr "Custom-Field-Synchronisierung"
+
+#: inc/inc-backend.php:41
+msgid "If you have any questions, write to: office@lemontec.at"
+msgstr "Bei Fragen, schreibe an: office@lemontec.at"
+
+#: inc/inc-backend.php:46
+msgid "Network settings"
+msgstr "Netzwerkeinstellungen"
+
+#: inc/inc-backend.php:51
+msgid "Select the websites to be synchronized:"
+msgstr "Wähle die Websites die synchronisiert werden sollen:"
+
+#: inc/inc-backend.php:79
+msgid "Synchronize the following product data:"
+msgstr "Synchronisiere folgende Produktdaten:"
+
+#: inc/inc-backend.php:82
+msgid "Base data"
+msgstr "Stammdaten"
+
+#: inc/inc-backend.php:90
+msgid "Stock level"
+msgstr "Lagerstand"
+
+#: inc/inc-backend.php:92
+msgid "(Stock status, stock backlog, etc.)"
+msgstr "(Lagerstatus, Lagerrückstand usw.)"
+
+#: inc/inc-backend.php:102
+msgid "Price"
+msgstr "Preis"
+
+#: inc/inc-backend.php:104
+msgid "(Regular price, offer price, etc.)"
+msgstr "(Regulärer Preis, Angebotspreis usw.)"
+
+#. Plugin Name of the plugin/theme
+msgid "Multisite sync for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://lemontec.at/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Sync WooCommerce-Products data by SKU"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "LEMONTEC"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://lemontec.at/kontakt/"
+msgstr ""
